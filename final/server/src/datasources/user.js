@@ -1,5 +1,5 @@
 const { DataSource } = require('apollo-datasource');
-const isEmail = require('isemail');
+const  = require('isemail');
 
 class UserAPI extends DataSource {
   constructor({ store }) {
