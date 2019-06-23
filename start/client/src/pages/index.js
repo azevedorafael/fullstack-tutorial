@@ -18,6 +18,7 @@ export default function Pages() {
           <Profile path="profile" />
         </Router>
       </PageContainer>
+      <Footer />
     </Fragment>
   );
 }
